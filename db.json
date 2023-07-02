@@ -2,7 +2,7 @@
    "team": [
       {
          "id": 1,
-         "name": "Lorem ipsom",
+         "name": "Nerdfall",
          "description": "Core Member",
          "gitUrl": "https://www.github.com/",
          "telegramUrl": "https://telegram.me/",
@@ -10,7 +10,7 @@
       },
       {
          "id": 2,
-         "name": "Lorem ipsom",
+         "name": "Asad",
          "description": "Core Member",
          "gitUrl": "https://www.github.com/",
          "telegramUrl": "https://telegram.me/",
@@ -18,8 +18,8 @@
       },
       {
          "id": 3,
-         "name": "Lorem ipsom",
-         "description": "Core Member",
+         "name": "Milind Goel",
+         "description": "Website Maintainer",
          "gitUrl": "https://www.github.com/",
          "telegramUrl": "https://telegram.me/",
          "imageUrl": "https://imgur.com/hWL8t48.png"
