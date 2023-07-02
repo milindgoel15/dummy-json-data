@@ -1,0 +1,52 @@
+{
+   "devices": [
+      {
+         "id": 1,
+         "name": "Redmi Note 10 Pro (Sweet)",
+         "imageUrl": "images/redminote10pro.png",
+         "maintainer": "lorem ipsum",
+         "buildDate": "lorem ipsum",
+         "buildUrl": [
+            {
+               "id": 1,
+               "flavour": "Gapps",
+               "downloadUrl": ""
+            },
+            {
+               "id": 2,
+               "flavour": "Vanilla",
+               "downloadUrl": ""
+            },
+            {
+               "id": 3,
+               "flavour": "Older Builds",
+               "downloadUrl": ""
+            }
+         ]
+      },
+      {
+         "id": 2,
+         "name": "Redmi Note 10",
+         "imageUrl": "images/redminote10pro.png",
+         "maintainer": "lorem ipsum",
+         "buildDate": "lorem ipsum",
+         "buildUrl": [
+            {
+               "id": 1,
+               "flavour": "Gapps",
+               "downloadUrl": ""
+            },
+            {
+               "id": 2,
+               "flavour": "Vanilla",
+               "downloadUrl": ""
+            },
+            {
+               "id": 3,
+               "flavour": "Older Builds",
+               "downloadUrl": ""
+            }
+         ]
+      }
+   ]
+}
