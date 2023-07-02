@@ -15,6 +15,14 @@
          "gitUrl": "https://www.github.com/",
          "telegramUrl": "https://telegram.me/",
          "imageUrl": "https://imgur.com/hWL8t48.png"
+      },
+      {
+         "id": 3,
+         "name": "Lorem ipsom",
+         "description": "Core Member",
+         "gitUrl": "https://www.github.com/",
+         "telegramUrl": "https://telegram.me/",
+         "imageUrl": "https://imgur.com/hWL8t48.png"
       }
    ]
 }
