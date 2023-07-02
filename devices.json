@@ -3,7 +3,7 @@
       {
          "id": 1,
          "name": "Redmi Note 10 Pro (Sweet)",
-         "imageUrl": "https://github.com/milindgoel15/dummy-json-data/tree/main/images/redminote10pro.png",
+         "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/images/redminote10pro.png",
          "maintainer": "lorem ipsum",
          "buildDate": "lorem ipsum",
          "buildUrl": [
@@ -27,7 +27,7 @@
       {
          "id": 2,
          "name": "Redmi Note 10",
-         "imageUrl": "https://github.com/milindgoel15/dummy-json-data/tree/main/images/redminote10pro.png",
+         "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/images/redminote10pro.png",
          "maintainer": "lorem ipsum",
          "buildDate": "lorem ipsum",
          "buildUrl": [
