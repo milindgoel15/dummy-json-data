@@ -1,0 +1,52 @@
+{
+   "devices": [
+      {
+         "id": 1,
+         "name": "Redmi Note 10 Pro (Sweet)",
+         "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/images/redminote10pro.png",
+         "maintainer": "lorem ipsum",
+         "buildDate": "lorem ipsum",
+         "buildUrl": [
+            {
+               "id": 1,
+               "flavour": "Gapps",
+               "downloadUrl": ""
+            },
+            {
+               "id": 2,
+               "flavour": "Vanilla",
+               "downloadUrl": ""
+            },
+            {
+               "id": 3,
+               "flavour": "Older Builds",
+               "downloadUrl": ""
+            }
+         ]
+      },
+      {
+         "id": 2,
+         "name": "Redmi Note 10",
+         "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/images/redminote10pro.png",
+         "maintainer": "lorem ipsum",
+         "buildDate": "lorem ipsum",
+         "buildUrl": [
+            {
+               "id": 1,
+               "flavour": "Gapps",
+               "downloadUrl": ""
+            },
+            {
+               "id": 2,
+               "flavour": "Vanilla",
+               "downloadUrl": ""
+            },
+            {
+               "id": 3,
+               "flavour": "Older Builds",
+               "downloadUrl": ""
+            }
+         ]
+      }
+   ]
+}
