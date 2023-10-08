@@ -1,18 +1,36 @@
 {
   "response": [
     {
-        "codename": "beryllium",
-        "devicename": "Poco F1",
-        "maintainer": "Ayush",
-        "oem": "Xiaomi",
-        "link": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/data/beryllium.json"
+      "oem": "Xiaomi",
+      "logo": "",
+      "supported": [
+        {
+          "codename": "beryllium",
+          "devicename": "Poco F1",
+          "maintainer": "Ayush"
+        },
+        {
+          "codename": "sweet",
+          "devicename": "Poco F1",
+          "maintainer": "Ayush"
+        }
+      ]
     },
     {
-        "codename": "sweet",
-        "devicename": "Redmi Note 10 Pro",
-        "maintainer": "Lorem Ipsum",
-        "oem": "Xiaomi",
-        "link": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/data/beryllium.json"
+      "oem": "OnePlus",
+      "logo": "",
+      "supported": [
+        {
+          "codename": "cheeseburger",
+          "devicename": "Oneplus 5",
+          "maintainer": "Ayush"
+        },
+        {
+          "codename": "dumpling",
+          "devicename": "Oneplus 5t",
+          "maintainer": "Ayush"
+        }
+      ]
     }
   ]
 }
