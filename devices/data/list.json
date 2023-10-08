@@ -1,0 +1,18 @@
+{
+  "response": [
+    {
+        "codename": "beryllium",
+        "devicename": "Poco F1",
+        "maintainer": "Ayush",
+        "oem": "Xiaomi",
+        "link": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/data/beryllium.json"
+    },
+    {
+        "codename": "sweet",
+        "devicename": "Redmi Note 10 Pro",
+        "maintainer": "Lorem Ipsum",
+        "oem": "Xiaomi",
+        "link": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/data/beryllium.json"
+    }
+  ]
+}
