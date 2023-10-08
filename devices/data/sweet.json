@@ -16,19 +16,25 @@
          "buildUrl": [
             {
                "id": 1,
-               "flavour": "Gapps",
+               "flavour": "DOWNLOAD",
                "fileName": "ProtonPlus 13.2",
                "downloadUrl": "https://sourceforge.net/projects/protonplus/files/Tiramisu/beryllium/gapps/ProtonPlus-13.2-Stable-beryllium-OFFICIAL-20230818-130224.zip/download"
             },
             {
                "id": 2,
-               "flavour": "Vanilla",
+               "flavour": "ORDER BUILDS",
                "fileName": "ProtonPlus 13.2",
                "downloadUrl": "https://sourceforge.net/projects/protonplus/files/Tiramisu/beryllium/gapps/ProtonPlus-13.2-Stable-beryllium-OFFICIAL-20230818-130224.zip/download"
             },
             {
                "id": 3,
-               "flavour": "Older Builds",
+               "flavour": "SUPPORT GROUP",
+               "fileName": "ProtonPlus 12",
+               "downloadUrl": "https://sourceforge.net/projects/protonplus/files/Tiramisu/beryllium/gapps/ProtonPlus-13.2-Stable-beryllium-OFFICIAL-20230818-130224.zip/download"
+            },
+            {
+               "id": 4,
+               "flavour": "DONATE",
                "fileName": "ProtonPlus 12",
                "downloadUrl": "https://sourceforge.net/projects/protonplus/files/Tiramisu/beryllium/gapps/ProtonPlus-13.2-Stable-beryllium-OFFICIAL-20230818-130224.zip/download"
             }
