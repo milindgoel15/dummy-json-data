@@ -15,6 +15,14 @@
          "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/images/redminote10pro.png",
          "maintainer": "lorem ipsum",
          "buildDate": "lorem ipsum"
+      },
+      {
+         "id": 3,
+         "name": "OnePlus 5T",
+         "codename": "fajita",
+         "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/images/redminote10pro.png",
+         "maintainer": "lorem ipsum",
+         "buildDate": "lorem ipsum"
       }
    ]
 }
